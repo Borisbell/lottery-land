@@ -1,0 +1,37 @@
+body {
+    background-color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    color: #2F2F45;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+
+  .spring-banner{
+    max-width: 900px;
+    margin-bottom: 200px;
+  }
+  
+.prize-list{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 52px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .prize-item{
+    max-width: 560x;
+    margin: 0 16px;
+  }
+
+  .prize-image{
+    width: 100%;
+  }
+  
